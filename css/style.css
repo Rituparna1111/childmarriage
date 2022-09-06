@@ -1,0 +1,152 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 50px auto 2.5rem auto;
+  font-family:  'Ubuntu', sans-serif;
+  color: #0B024D;
+  font-size: 2.5rem;
+}
+h2{
+  font-family: 'Libre Baskerville', serif;
+  color: #0A042E;
+  padding-bottom: 10px;
+}
+.top-container{
+  position: relative;
+  padding-top: 10px;
+  background-color: #C6CCD2;
+}
+.top-pic{
+  border-radius: 25%;
+}
+.profile-p{
+  width: 50%;
+  font-family:  'Exo 2', sans-serif;
+  margin: auto;
+  padding-bottom: 10px;
+  font-size: 1.0rem;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+width: 10%;
+margin: 10px auto;
+border-width: 10px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+h3{
+  font-family: 'Sriracha', cursive;
+  color: #371341;
+  font-size: 1.5rem;
+}
+.causes{
+  margin: 80px auto;
+  width: 50%;
+  text-align: left;
+}
+p{
+  font-family: 'Signika', sans-serif;
+}
+.cause-1{
+  float: left;
+  margin-right: 80px;
+  width: 37%;
+}
+.cause-2{
+  float: right;
+  margin-left: 80px;
+  width: 37%;
+}
+.cause-3{
+  float: left;
+  margin-right: 80px;
+  width: 37%;
+}
+.effect{
+  width: 50%;
+  font-family: 'Dancing Script', cursive;
+  margin: auto;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+.educating{
+  font-family: 'Charm', cursive;
+  width: 50%;
+  margin: auto;
+  font-size: 1.1rem;
+  font-weight: 1.5rem;
+  padding-top: 10px;
+}
+.govt-1{
+  font-family:'Dancing Script', cursive;
+
+  font-size: 1.3rem;
+}
+.steps{
+  text-align: left;
+  margin: 80px auto;
+  width: 50%;
+}
+.school-pic{
+  float: left;
+  margin-right: 60px ;
+  width: 35%;
+
+}
+h4{
+font-family:'Dancing Script', cursive;
+font-size: 1.5rem;
+}
+.govtt{
+  font-family: 'Charm', cursive;
+  width: 50%;
+  margin: auto;
+  font-size: 1.2rem;
+}
+.myButton {
+	background-color:#44c767;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:-3px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+
+}
+
+.bottom-container{
+  margin: 10px auto 0;
+  padding: 50px 0 10px;
+  background-color: skyblue;
+
+}
+.footer-link{
+  margin: 10px 10px;
+  font-family:  'Quintessential', cursive;
+  color: #3165AA;
+  text-decoration: none;
+  font-size: 25px;
+}
+.footer-link:hover{
+  color: white;
+}
+.copyrights{
+  color: white;
+  padding: 10px 0;
+  font-size: 1.0rem;
+}
